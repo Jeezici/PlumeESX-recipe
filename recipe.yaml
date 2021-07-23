@@ -43,7 +43,7 @@ tasks:
     dest: ./resources/EasyAdmin
 
   - action: download_github
-    src: https://github.com/esx-framework/async
+    src: https://github.com/KrizFrostThemes/esx_instance-onesync
     ref: e7b778f0c7236132596e98d8ebd33e1127dbb4c4
     dest: ./resources/async
 
